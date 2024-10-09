@@ -9,3 +9,13 @@ task a- https://www.tinkercad.com/things/3ENanO90SuY-task-1?sharecode=hgTBMJ2fgB
 task 2 
 a part- https://www.tinkercad.com/things/3rULzR1EsXK-task-2-a?sharecode=Fto8X7HRnvK9StMxcwaouGIdo_GiJl8u2P3oDiMpSoQ
 b part- https://www.tinkercad.com/things/isuTga2Y9MB-task-2-b?sharecode=B1DaGfyuZ4WcKLtkAl7M4LAg2l4XhMbwxNQFAnXjDKQ
+
+Assignment 2
+JK- https://www.tinkercad.com/things/cjnbBvQFAvO-task-a-ic-74h73?sharecode=xN5tEAMzPxYIe0ncmtjGlPrtyzsDYog2KoZw9PpYGMY
+AND- https://www.tinkercad.com/things/1QR7vcwtWCf-task-a-ic-74hc08?sharecode=IZX30AxMs2YHBMpr1GkbT_9vupkrHZP5iq-VuR_72E4
+
+Assignment 1
+blink- https://www.tinkercad.com/things/jzfx7o3MWGU-task-a?sharecode=I8KK_P8PknksG5Kj4TlxHrDKxkDYzzUaSp3NHPq-8u8
+AND- https://www.tinkercad.com/things/0kHGwAuX63R-task-ba-and-gate?sharecode=7diV03mXN0Qbc5RysSay2IUPD7rFqymBwSwfmYUVW5Y
+NAND- https://www.tinkercad.com/things/dH7UnozIg4A-task-ba-nand-gate?sharecode=4zuPDlbkk1_oww-sAbL6wBI0bgoGqK1VhsOwDhDAq8E
+XOR- https://www.tinkercad.com/things/cgBP6RiW7er-task-ba-xor-gate?sharecode=8_0En4pRznathXiBmifMuEcVLn0GWLM0E0ZirQGPuiY
